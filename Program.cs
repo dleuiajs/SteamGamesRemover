@@ -8,7 +8,6 @@ namespace SteamGamesRemover
         static void Main(string[] args)
         {
             bool end = false;
-            //int[] idGames = new int[];
             List<int> idGames = new List<int> { };
             List<string> links = new List<string> { };
             Console.WriteLine("Введите айди игр (после ввода 1 айди нажимайте Enter и снова вводите). При окончании ввода напишите /s");
