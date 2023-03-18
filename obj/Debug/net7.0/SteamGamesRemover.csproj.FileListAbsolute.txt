@@ -1,0 +1,15 @@
+C:\Users\dleuiajs\git\SteamGamesRemover\bin\Debug\net7.0\SteamGamesRemover.exe
+C:\Users\dleuiajs\git\SteamGamesRemover\bin\Debug\net7.0\SteamGamesRemover.deps.json
+C:\Users\dleuiajs\git\SteamGamesRemover\bin\Debug\net7.0\SteamGamesRemover.runtimeconfig.json
+C:\Users\dleuiajs\git\SteamGamesRemover\bin\Debug\net7.0\SteamGamesRemover.dll
+C:\Users\dleuiajs\git\SteamGamesRemover\bin\Debug\net7.0\SteamGamesRemover.pdb
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\SteamGamesRemover.csproj.AssemblyReference.cache
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\SteamGamesRemover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\SteamGamesRemover.AssemblyInfoInputs.cache
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\SteamGamesRemover.AssemblyInfo.cs
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\SteamGamesRemover.csproj.CoreCompileInputs.cache
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\SteamGamesRemover.dll
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\refint\SteamGamesRemover.dll
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\SteamGamesRemover.pdb
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\SteamGamesRemover.genruntimeconfig.cache
+C:\Users\dleuiajs\git\SteamGamesRemover\obj\Debug\net7.0\ref\SteamGamesRemover.dll
