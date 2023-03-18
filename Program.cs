@@ -41,6 +41,8 @@ namespace SteamGamesRemover
                 links += "\nhttps://help.steampowered.com/ru/wizard/HelpWithGameIssue/?appid=" + idGames[n] + "&issueid=123";
             }
             Console.WriteLine(links);
+            Console.WriteLine("Нажмите любую клавишу для выхода");
+            Console.ReadKey(true);
         }
     }
 }
