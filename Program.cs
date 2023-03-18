@@ -8,7 +8,7 @@ namespace SteamGamesRemover
         {
             bool end = false;
             //int[] idGames = new int[];
-            List<int> idGames = new List<int> {};
+            List<int> idGames = new List<int> { };
             string links = "";
             int i = 0;
             Console.WriteLine("Введите айди игр (после ввода 1 айди нажимайте Enter и снова вводите). При окончании ввода напишите /s");
@@ -17,9 +17,18 @@ namespace SteamGamesRemover
                 string textRead = Console.ReadLine();
                 if (textRead != "/s")
                 {
-                    idGames.Add(idGames.Count + 1);
-                    idGames[i] = Convert.ToInt32(textRead);
-                    i++;
+                    bool success = int.TryParse(textRead, out int num);
+                    if (success)
+                    {
+                        idGames.Add(idGames.Count + 1);
+                        idGames[i] = num;
+                        i++;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Неверный айди! Указывайте только число, например, 1000");
+                    }
+
                 }
                 else
                 {
